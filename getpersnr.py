@@ -1,6 +1,9 @@
 import requests
 import random
 
+
+#Hämtar giltiga personnummer frå skatteverket 
+#Anväder Thunder client för att testa request
 #pip install requests
 #python.exe -m pip install --upgrade pip
 
